@@ -6,7 +6,7 @@
 
 | Giriş Ekranı | Katalog (Discover) | Ürün Detay | Sepetim |
 | :---: | :---: | :---: | :---: |
-|| ![Welcome](https://raw.githubusercontent.com/kkaantt/mini_katalog_app/main/screenshots/welcome.png) | ![Home](https://raw.githubusercontent.com/kkaantt/mini_katalog_app/main/screenshots/home.png) | ![Detail](https://raw.githubusercontent.com/kkaantt/mini_katalog_app/main/screenshots/detail.png) | ![Cart](https://raw.githubusercontent.com/kkaantt/mini_katalog_app/main/screenshots/cart.png) |
+| <img src="https://raw.githubusercontent.com/kkaantt/mini_katalog_app/main/screenshots/welcome.png" width="150"/> | <img src="https://raw.githubusercontent.com/kkaantt/mini_katalog_app/main/screenshots/home.png" width="150"/> | <img src="https://raw.githubusercontent.com/kkaantt/mini_katalog_app/main/screenshots/detail.png" width="150"/> | <img src="https://raw.githubusercontent.com/kkaantt/mini_katalog_app/main/screenshots/cart.png" width="150"/> |
 
 ##     Özellikler
 
