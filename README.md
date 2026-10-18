@@ -4,9 +4,10 @@
 
 ## Ekran Görüntüleri
 
-| Giriş Ekranı | Katalog / Discover | Ürün Detay | Sepetim |
+| Giriş Ekranı | Katalog (Discover) | Ürün Detay | Sepetim |
 | :---: | :---: | :---: | :---: |
-| <img src="screenshots/welcome.png" width="200"/> | <img src="screenshots/home.png" width="200"/> | <img src="screenshots/detail.png" width="200"/> | <img src="screenshots/cart.png" width="200"/> |
+| <img src="./screenshots/welcome.png" width="200"/> | <img src="./screenshots/home.png" width="200"/> | <img src="./screenshots/detail.png" width="200"/> | <img src="./screenshots/cart.png" width="200"/> |
+
 *(Not: Ekran görüntülerini projenizdeki `screenshots` klasörüne ekleyip yukarıdaki dosya yollarını güncelleyebilirsiniz.)*
 
 ##     Özellikler
