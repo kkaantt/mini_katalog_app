@@ -2,12 +2,11 @@
 
 **Discover App**, kullanıcıların en yeni teknolojik ürünleri ve aksesuarları keşfedebileceği, detaylı özelliklerini inceleyebileceği ve sepetlerini yönetebileceği modern bir Flutter e-ticaret mobil uygulamasıdır.
 
-### Ekran Görüntüleri
+## Ekran Görüntüleri
 
-![Giriş Ekranı](screenshots/welcome.png)
-![Katalog Ekranı](screenshots/home.png)
-![Ürün Detayı](screenshots/detail.png)
-![Sepetim Ekranı](screenshots/cart.png)
+| Giriş Ekranı | Katalog | Ürün Detay | Sepetim |
+| :---: | :---: | :---: | :---: |
+| <img src="screenshots/welcome.png" width="160"/> | <img src="screenshots/home.png" width="160"/> | <img src="screenshots/detail.png" width="160"/> | <img src="screenshots/cart.png" width="160"/> |
 
 ##     Özellikler
 
