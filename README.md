@@ -4,21 +4,11 @@
 
 <div align="center">
   <h2>Ekran Görüntüleri</h2>
-
-  <table>
-    <tr>
-      <td align="center"><b>Giriş Ekranı</b></td>
-      <td align="center"><b>Katalog</b></td>
-      <td align="center"><b>Ürün Detay</b></td>
-      <td align="center"><b>Sepetim</b></td>
-    </tr>
-    <tr>
-      <td><img src="screenshots/welcome.png" width="170" alt="Giriş Ekranı" /></td>
-      <td><img src="screenshots/home.png" width="170" alt="Katalog Ekranı" /></td>
-      <td><img src="screenshots/detail.png" width="170" alt="Ürün Detayı" /></td>
-      <td><img src="screenshots/cart.png" width="170" alt="Sepetim Ekranı" /></td>
-    </tr>
-  </table>
+  
+  <img src="screenshots/welcome.png" width="180" alt="Giriş Ekranı" />
+  <img src="screenshots/home.png" width="180" alt="Katalog Ekranı" />
+  <img src="screenshots/detail.png" width="180" alt="Ürün Detayı" />
+  <img src="screenshots/cart.png" width="180" alt="Sepetim Ekranı" />
 </div>
 
 ##     Özellikler
