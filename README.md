@@ -4,9 +4,11 @@
 
 ## Ekran Görüntüleri
 
-| Giriş Ekranı | Katalog | Ürün Detay | Sepetim |
-| :---: | :---: | :---: | :---: |
-| <img src="screenshots/welcome.png" width="160"/> | <img src="screenshots/home.png" width="160"/> | <img src="screenshots/detail.png" width="160"/> | <img src="screenshots/cart.png" width="160"/> |
+
+![Giriş Ekranı](screenshots/welcome.png)
+![Katalog](screenshots/home.png)
+![Ürün Detay](screenshots/detail.png)
+![Sepetim](screenshots/cart.png)
 
 ##     Özellikler
 
